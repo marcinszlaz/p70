@@ -218,6 +218,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 # my own files and dirs to ignore
-/FlapPyBird
+
 secrets.txt
-/FlapPyBird
+
