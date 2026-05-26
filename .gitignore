@@ -220,4 +220,4 @@ __marimo__/
 # my own files and dirs to ignore
 LICENSE
 secrets.txt
-
+/FlapPyBird
