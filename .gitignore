@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# my own files and dirs to ignore
+LICENSE
+secrets.txt
+
